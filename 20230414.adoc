@@ -4,6 +4,7 @@
 |サドル|やすくて十分な性能 https://amzn.asia/d/gJwIZWL 2500円|安くて分厚いタイプ https://amzn.asia/d/gJwIZWL 2500円|ブランド物 https://amzn.asia/d/dZGV6UH 15000円
 |バーテープ|普通のやつ https://amzn.asia/d/eNj5tZb 4000円ほど(カラバリあり)|やっすいやつ https://amzn.asia/d/dWGN3qP 1000円|
 |ブレーキシュー|純正 https://amzn.asia/d/cExj01W 1550円|純正カートリッジ式 https://amzn.asia/d/eNj5tZb 2200円|詳細不明 https://amzn.asia/d/eNj5tZb 890円
+|ブレーキワイヤ|ノーマルワイヤ https://amzn.asia/d/aSxzMFh 1500円|引きが軽いコーティングワイヤ https://amzn.asia/d/8w27JGO 2800円|
 |===
 
 .現車再確認
@@ -16,11 +17,11 @@
 |チェーン|SHIMANO|CN-HG53|2323|https://amzn.asia/d/hAgYTdc
 |バーテープ||||
 |サドル||||
-|ブレーキワイヤ|||1500,2800|https://amzn.asia/d/aSxzMFh https://amzn.asia/d/8w27JGO
+|ブレーキワイヤ||||
 |シフトワイヤ|||2000|https://amzn.asia/d/0ZVtvjk
 |ブレーキシュー||||
 |スポーク類||||
-|タイヤ||チューブラーぽい||
+|タイヤ||チューブラーぽい|クリンチャーな気もする|
 |===
 
 .足りない工具
