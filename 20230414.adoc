@@ -1,3 +1,11 @@
+.オーナー確認待ち
+|===
+|Material|1案(おすすめ)|2案|3案
+|サドル|やすくて十分な性能 https://amzn.asia/d/gJwIZWL 2500円|安くて分厚いタイプ https://amzn.asia/d/gJwIZWL 2500円|ブランド物 https://amzn.asia/d/dZGV6UH 15000円
+|バーテープ|普通のやつ https://amzn.asia/d/eNj5tZb 4000円ほど(カラバリあり)|やっすいやつ https://amzn.asia/d/dWGN3qP 1000円|
+|ブレーキシュー|純正 https://amzn.asia/d/cExj01W 1550円|純正カートリッジ式 https://amzn.asia/d/eNj5tZb 2200円|詳細不明 https://amzn.asia/d/eNj5tZb 890円
+|===
+
 .現車再確認
 * タイヤ　クリンチャーORチューブラー
 * スポーク長、ニップル番手
